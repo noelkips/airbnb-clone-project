@@ -83,10 +83,43 @@ This project aims to build a powerful backend system that supports a smooth and 
 
 ## 👥 Team Roles
 
-- **Backend Developer** – API logic, endpoints, system design
-- **Database Administrator** – Schema design, indexing, optimization
-- **DevOps Engineer** – Deployment, scaling, monitoring
-- **QA Engineer** – Test coverage, bug tracking, quality assurance
+- **Product Owner (PO)**  
+  Oversees the product vision, defines business strategy, prioritizes customer needs, and manages the product backlog. Responsible for aligning the final product with customer requirements and market trends.
+
+- **Business Analyst (BA)**  
+  Analyzes business processes and translates them into clear technical requirements. Acts as a liaison between stakeholders and the development team to ensure alignment and maximize business value.
+
+- **Project Manager (PM)**  
+  Coordinates the project schedule, budget, and team deliverables. Ensures effective communication, on-time delivery, and continuous improvement across Agile or traditional workflows.
+
+- **Software Architect**  
+  Designs the overall software structure and selects the appropriate technologies, tools, and design patterns. Establishes code quality standards and oversees technical decisions.
+
+- **Backend Developer**  
+  Implements the server-side logic, business rules, and database interactions. Ensures data consistency, scalability, and performance.
+
+- **Frontend Developer**  
+  Develops the user-facing part of the application. Translates UI/UX designs into functional, responsive, and accessible interfaces.
+
+- **Full-Stack Developer**  
+  Capable of handling both frontend and backend development, offering flexibility across the entire software stack.
+
+- **UI/UX Designer**  
+  Creates user-friendly, visually appealing designs and intuitive user journeys. Involved in wireframing, prototyping, and refining user experience throughout the development cycle.
+
+- **Quality Assurance (QA) Engineer**  
+  Ensures the product meets functional and non-functional requirements. Performs manual and exploratory testing, reports bugs, and helps maintain product quality.
+
+- **Test Automation Engineer**  
+  Builds and maintains automated testing frameworks and scripts. Helps increase test coverage, speed up feedback loops, and reduce manual testing efforts.
+
+- **DevOps Engineer**  
+  Bridges the gap between development and operations. Implements CI/CD pipelines, automates deployments, and monitors system health to ensure reliability and fast delivery.
+
+- **Database Administrator (DBA)**  
+  Designs and maintains database schemas, optimizes queries, manages indexing, and ensures data integrity and security.
+
+
 
 ---
 
