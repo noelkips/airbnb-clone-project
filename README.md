@@ -197,6 +197,28 @@ All inputs from users are validated and sanitized to prevent injection attacks (
 
 Security is not an afterthought in this project—it is a foundational principle woven into every feature to protect users, data, and infrastructure.
 
+---
+## 🚀 CI/CD Pipeline
+
+### What is CI/CD?
+
+CI/CD stands for Continuous Integration and Continuous Deployment. It's a development practice where code changes are automatically tested and deployed, ensuring faster and more reliable delivery of features and fixes. 
+
+### Why It's Important
+
+Implementing a CI/CD pipeline allows the team to:
+- Automatically run tests on new code to prevent bugs.
+- Deploy updates quickly and safely without manual intervention.
+- Maintain consistent environments across development, staging, and production.
+- Enable frequent and reliable releases, boosting productivity and user satisfaction.
+
+### Tools Used
+
+To support CI/CD in this project, we utilize the following tools:
+- **GitHub Actions**: For automating testing, linting, and deployment workflows directly within the GitHub ecosystem.
+- **Docker**: To containerize the application, ensuring consistent environments across all stages of deployment.
+- **Docker Compose**: For defining and running multi-container applications locally and in CI pipelines.
+- **Heroku / AWS / Render (Optional)**: For deploying the application to a live production environment.
 
 ---
 ## 📈 API Documentation Overview
