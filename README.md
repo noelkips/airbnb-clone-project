@@ -1,3 +1,5 @@
+![Airbnb Clone Backend Architecture](assets/images/airbnb-backend.jpg)
+
 # 🏡 Airbnb Clone – Backend API
 
 Welcome to the backend repository of the **Airbnb Clone** project — a robust and scalable platform built to replicate the core functionalities of Airbnb. This backend system handles everything from user management and property listings to bookings, payments, and reviews.
